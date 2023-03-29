@@ -1,13 +1,20 @@
-# co57049fb99d34dfb96ff2d37
+# co55244e285a7ec131d13530c
 
 Quick start:
 
 ```
-$ npm install
-$ npm start
+$ yarn # npm install
+$ yarn build # npm run build
 ````
 
-Head over to https://vitejs.dev/ to learn more about using vite
+## Development
+
+Run Webpack in watch-mode to continually compile the JavaScript as you work:
+
+```
+$ yarn watch # npm run watch
+```
+
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
